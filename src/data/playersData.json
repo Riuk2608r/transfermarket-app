@@ -47,7 +47,24 @@
       "league": "Premier League",
       "logo": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
       "colors": ["#C8102E", "#00B2A9"]
+    },
+    {
+      "id": 7,
+      "name": "Juventus",
+      "country": "Italia",
+      "league": "Serie A",
+      "logo": "https://assets.goal.com/images/v3/bltfa530c5d51aa5529/b10aedca4a535e5fa4551decba8474e5f75b2818.jpg",
+      "colors": ["#000000", "#FFFFFF"]
+    },
+    {
+      "id": 8,
+      "name": "AC Milan",
+      "country": "Italia",
+      "league": "Serie A",
+      "logo": "https://yt3.googleusercontent.com/3MuJZcfzJCWFim5oUnn-umt_9zxmt8Okb8IlT6zMEkWyjDMgxgETaU9jd2WZO434ZVbzWaTWFKo=s900-c-k-c0x00ffffff-no-rj",
+      "colors": ["#FB090B", "#000000"]
     }
+
   ],
   "players": [
     {
@@ -86,7 +103,7 @@
       "goals": 21,
       "assists": 11,
       "matches": 38,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/371998-1669664875.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/371998-1664869583.jpg?lm=1",
       "skills": {
         "pace": 95,
         "shooting": 82,
@@ -110,7 +127,7 @@
       "goals": 32,
       "assists": 6,
       "matches": 40,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/38253-1635255627.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/38253-1701118759.jpg?lm=1",
       "skills": {
         "pace": 72,
         "shooting": 96,
@@ -134,7 +151,7 @@
       "goals": 4,
       "assists": 7,
       "matches": 28,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/591568-1635255555.jpg?lm=1",
+      "photo": "https://es.e-noticies.cat/filesedc/uploads/image/post/pedri-fcbarcelona_1200_800.webp",
       "skills": {
         "pace": 68,
         "shooting": 72,
@@ -158,7 +175,7 @@
       "goals": 38,
       "assists": 5,
       "matches": 41,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/418560-1635255714.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/418560-1709108116.png?lm=1",
       "skills": {
         "pace": 89,
         "shooting": 95,
@@ -182,7 +199,7 @@
       "goals": 6,
       "assists": 18,
       "matches": 35,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/88755-1635255714.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/88755-1713391485.jpg?lm=1",
       "skills": {
         "pace": 74,
         "shooting": 86,
@@ -206,7 +223,7 @@
       "goals": 18,
       "assists": 12,
       "matches": 29,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/68290-1635255555.jpg?lm=1",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDqu-fSkGMwYy0jSts_Ddh3IS-8ECKecRzJY9-oVU00UgAxdaiXoGVtGRqHEdwCk706MU&usqp=CAU",
       "skills": {
         "pace": 84,
         "shooting": 85,
@@ -230,7 +247,7 @@
       "goals": 16,
       "assists": 14,
       "matches": 32,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/28003-1635255555.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/28003-1740766555.jpg?lm=1",
       "skills": {
         "pace": 78,
         "shooting": 92,
@@ -254,7 +271,7 @@
       "goals": 36,
       "assists": 8,
       "matches": 42,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/132098-1635255714.jpg?lm=1",
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/132098-1700211169.jpg?lm=1",
       "skills": {
         "pace": 78,
         "shooting": 94,
@@ -278,7 +295,7 @@
       "goals": 12,
       "assists": 8,
       "matches": 38,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/580195-1635255714.jpg?lm=1",
+      "photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwiD4HQKBZ1vjpyJw-8YU6bsfgbhaaSAd_5tyiuFWaqzjwK6IYK9oGMJtHH7ZGTSB1WXo&usqp=CAU",
       "skills": {
         "pace": 82,
         "shooting": 79,
@@ -302,7 +319,7 @@
       "goals": 25,
       "assists": 14,
       "matches": 40,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/148455-1635255714.jpg?lm=1",
+      "photo": "https://s.hs-data.com/bilder/spieler/gross/173692.jpg",
       "skills": {
         "pace": 88,
         "shooting": 89,
@@ -326,7 +343,31 @@
       "goals": 3,
       "assists": 2,
       "matches": 37,
-      "photo": "https://img.a.transfermarkt.technology/portrait/big/139208-1635255714.jpg?lm=1",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5d/20160604_AUT_NED_8876_%28cropped%29.jpg",
+      "skills": {
+        "pace": 78,
+        "shooting": 62,
+        "passing": 89,
+        "dribbling": 72,
+        "defending": 96,
+        "physical": 94
+      },
+      "trophies": ["Liga de Campeones", "Premier League"],
+      "description": "Defensa central holandés líder en defensa con gran juego aéreo y pase largo."
+    },
+        {
+      "id": 12,
+      "name": "Kean",
+      "age": 33,
+      "position": "Defensa Central",
+      "nationality": "Países Bajos",
+      "teamId": 6,
+      "marketValue": 35000000,
+      "contractUntil": "2024",
+      "goals": 3,
+      "assists": 2,
+      "matches": 37,
+      "photo": "https://img.asmedia.epimg.net/resizer/v2/XE6W6ZCNAVOIZL2FUVA7KM55WQ.jpg?auth=aa65d47c84cd3997e8e603e5cff71e6dd33e4a6dadf0671ebf3348316f4492dd&width=360&height=203&smart=true",
       "skills": {
         "pace": 78,
         "shooting": 62,
