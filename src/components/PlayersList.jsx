@@ -1,7 +1,7 @@
 import React from 'react';
 import PlayerCard from './PlayerCard';
 
-const PlayersList = ({ players, onPlayerClick, loading, error }) => {
+const PlayersList = ({ players, onPlayerClick, loading, error, favorites, onToggleFavorite }) => {
   if (loading) {
     return (
       <div className="flex items-center justify-center py-20">
@@ -51,6 +51,8 @@ const PlayersList = ({ players, onPlayerClick, loading, error }) => {
             key={player.id}
             player={player}
             onClick={onPlayerClick}
+            isFavorite={favorites ? favorites.includes(player.id) : false}
+            onToggleFavorite={onToggleFavorite}
           />
         ))}
       </div>

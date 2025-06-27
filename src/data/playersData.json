@@ -48,21 +48,22 @@
       "logo": "https://logos-world.net/wp-content/uploads/2020/06/Liverpool-Logo.png",
       "colors": ["#C8102E", "#00B2A9"]
     },
+
     {
-      "id": 7,
-      "name": "Juventus",
-      "country": "Italia",
-      "league": "Serie A",
-      "logo": "https://assets.goal.com/images/v3/bltfa530c5d51aa5529/b10aedca4a535e5fa4551decba8474e5f75b2818.jpg",
-      "colors": ["#000000", "#FFFFFF"]
+      "id": 9,
+      "name": "Universitario de Deportes",
+      "country": "Perú",
+      "league": "Liga 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Universitario_de_Deportes_logo.svg/1200px-Universitario_de_Deportes_logo.svg.png",
+      "colors": ["#8B0000", "#FFFFFF"]
     },
     {
-      "id": 8,
-      "name": "AC Milan",
-      "country": "Italia",
-      "league": "Serie A",
-      "logo": "https://yt3.googleusercontent.com/3MuJZcfzJCWFim5oUnn-umt_9zxmt8Okb8IlT6zMEkWyjDMgxgETaU9jd2WZO434ZVbzWaTWFKo=s900-c-k-c0x00ffffff-no-rj",
-      "colors": ["#FB090B", "#000000"]
+      "id": 10,
+      "name": "Alianza Lima",
+      "country": "Perú",
+      "league": "Liga 1",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Alianza_Lima_logo.svg/1200px-Alianza_Lima_logo.svg.png",
+      "colors": ["#0000FF", "#FFFFFF"]
     }
 
   ],
@@ -378,6 +379,174 @@
       },
       "trophies": ["Liga de Campeones", "Premier League"],
       "description": "Defensa central holandés líder en defensa con gran juego aéreo y pase largo."
+    },
+    {
+      "id": 13,
+      "name": "Kean",
+      "age": 33,
+      "position": "Defensa Central",
+      "nationality": "Países Bajos",
+      "teamId": 6,
+      "marketValue": 35000000,
+      "contractUntil": "2024",
+      "goals": 3,
+      "assists": 2,
+      "matches": 37,
+      "photo": "https://img.asmedia.epimg.net/resizer/v2/XE6W6ZCNAVOIZL2FUVA7KM55WQ.jpg?auth=aa65d47c84cd3997e8e603e5cff71e6dd33e4a6dadf0671ebf3348316f4492dd&width=360&height=203&smart=true",
+      "skills": {
+        "pace": 78,
+        "shooting": 62,
+        "passing": 89,
+        "dribbling": 72,
+        "defending": 96,
+        "physical": 94
+      },
+      "trophies": ["Liga de Campeones", "Premier League"],
+      "description": "Defensa central holandés líder en defensa con gran juego aéreo y pase largo."
+    },
+    {
+      "id": 14,
+      "name": "Edison Flores",
+      "age": 30,
+      "position": "Extremo",
+      "nationality": "Perú",
+      "teamId": 9,
+      "marketValue": 2500000,
+      "contractUntil": "2026",
+      "goals": 8,
+      "assists": 5,
+      "matches": 24,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/284468-1669726200.jpg?lm=1",
+      "skills": {
+        "pace": 82,
+        "shooting": 75,
+        "passing": 78,
+        "dribbling": 83,
+        "defending": 42,
+        "physical": 70
+      },
+      "trophies": ["Liga 1"],
+      "description": "Extremo peruano con gran velocidad y capacidad de desborde, ídolo de la hinchada crema."
+    },
+    {
+      "id": 15,
+      "name": "Álex Valera",
+      "age": 28,
+      "position": "Delantero",
+      "nationality": "Perú",
+      "teamId": 9,
+      "marketValue": 1800000,
+      "contractUntil": "2025",
+      "goals": 18,
+      "assists": 3,
+      "matches": 32,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/659310-1669898834.jpg?lm=1",
+      "skills": {
+        "pace": 78,
+        "shooting": 84,
+        "passing": 72,
+        "dribbling": 76,
+        "defending": 35,
+        "physical": 82
+      },
+      "trophies": ["Liga 1"],
+      "description": "Delantero peruano goleador con gran instinto dentro del área y juego aéreo."
+    },
+    {
+      "id": 16,
+      "name": "Rodrigo Ureña",
+      "age": 31,
+      "position": "Centrocampista",
+      "nationality": "Chile",
+      "teamId": 9,
+      "marketValue": 1200000,
+      "contractUntil": "2025",
+      "goals": 5,
+      "assists": 8,
+      "matches": 28,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/168450-1669632600.jpg?lm=1",
+      "skills": {
+        "pace": 72,
+        "shooting": 74,
+        "passing": 86,
+        "dribbling": 78,
+        "defending": 75,
+        "physical": 76
+      },
+      "trophies": ["Liga 1"],
+      "description": "Centrocampista chileno con gran visión de juego y experiencia internacional."
+    },
+    {
+      "id": 17,
+      "name": "Paolo Guerrero",
+      "age": 40,
+      "position": "Delantero",
+      "nationality": "Perú",
+      "teamId": 10,
+      "marketValue": 500000,
+      "contractUntil": "2025",
+      "goals": 12,
+      "assists": 2,
+      "matches": 26,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/34434-1669987200.jpg?lm=1",
+      "skills": {
+        "pace": 65,
+        "shooting": 86,
+        "passing": 78,
+        "dribbling": 72,
+        "defending": 40,
+        "physical": 84
+      },
+      "trophies": ["Liga 1", "Copa América"],
+      "description": "Leyenda del fútbol peruano, delantero histórico con gran experiencia y liderazgo."
+    },
+    {
+      "id": 18,
+      "name": "Hernán Barcos",
+      "age": 39,
+      "position": "Delantero",
+      "nationality": "Argentina",
+      "teamId": 10,
+      "marketValue": 800000,
+      "contractUntil": "2025",
+      "goals": 15,
+      "assists": 4,
+      "matches": 30,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/23477-1669632600.jpg?lm=1",
+      "skills": {
+        "pace": 68,
+        "shooting": 88,
+        "passing": 76,
+        "dribbling": 74,
+        "defending": 38,
+        "physical": 86
+      },
+      "trophies": ["Liga 1"],
+      "description": "Delantero argentino veterano con gran instinto goleador y presencia en el área."
+    },
+    {
+      "id": 19,
+      "name": "Jairo Concha",
+      "age": 27,
+      "position": "Centrocampista",
+      "nationality": "Perú",
+      "teamId": 10,
+      "marketValue": 2000000,
+      "contractUntil": "2026",
+      "goals": 6,
+      "assists": 12,
+      "matches": 34,
+      "photo": "https://img.a.transfermarkt.technology/portrait/big/659308-1669632600.jpg?lm=1",
+      "skills": {
+        "pace": 76,
+        "shooting": 78,
+        "passing": 88,
+        "dribbling": 84,
+        "defending": 68,
+        "physical": 74
+      },
+      "trophies": ["Liga 1"],
+      "description": "Centrocampista peruano con excelente técnica, visión de juego y capacidad de asistencia."
     }
   ]
 }
